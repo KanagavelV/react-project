@@ -1,0 +1,12 @@
+.form-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-container
+{
+    display: block;
+    background: #7b7b7b59;
+    padding: 100px;
+}
